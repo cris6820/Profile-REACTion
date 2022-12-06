@@ -12,3 +12,7 @@ WHEN I load the portfolio
 THEN I am presented with a page containing a header, a section for content, and a footer
 
 ![image](https://user-images.githubusercontent.com/107166355/205856831-7f1b18aa-c672-4b41-a1ac-05aae78b2fe0.png)
+⬆ This is what the page functionality should have been.
+
+![image](https://user-images.githubusercontent.com/107166355/205858189-10d970f1-8976-4603-9707-1a360d883150.png)
+⬆ What deployed site looks like
