@@ -1,5 +1,7 @@
 # Profile REACTion
 
+Deployed site: https://cris6820.github.io/Profile-REACTion/ 
+
 This is my react portfolio! for future development there can be many additions. For example adding in completed projects, giving the site more design, and adding in a section where messages can be sent directly to me.
 
 
